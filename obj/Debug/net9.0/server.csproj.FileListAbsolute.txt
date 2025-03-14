@@ -140,3 +140,4 @@ C:\Users\esteb\Documents\Prueba tecnica\server\obj\Debug\net9.0\refint\server.dl
 C:\Users\esteb\Documents\Prueba tecnica\server\obj\Debug\net9.0\server.pdb
 C:\Users\esteb\Documents\Prueba tecnica\server\obj\Debug\net9.0\server.genruntimeconfig.cache
 C:\Users\esteb\Documents\Prueba tecnica\server\obj\Debug\net9.0\ref\server.dll
+C:\Users\esteb\Documents\Prueba tecnica\server\obj\Debug\net9.0\server.sourcelink.json
